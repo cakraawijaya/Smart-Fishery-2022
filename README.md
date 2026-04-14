@@ -16,7 +16,8 @@ This group assignment C IOT4-12 DTS PROA KOMINFO x INDOBOT Year 2022 describes t
 | Scheme | Virtual |
 | Communications Protocol | • Message Queuing Telemetry Transport (MQTT)<br>• MTProto |
 | Application Support | Telegram Bot |
-| Platform | • Wokwi<br>• ThingsBoard |
+| IoT Platform | ThingsBoard |
+| Simulator | Wokwi |
 
 <br><br>
 
